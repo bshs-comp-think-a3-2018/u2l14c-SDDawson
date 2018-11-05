@@ -1,0 +1,44 @@
+body {
+  background:black;
+}
+p {
+  color:navajowhite;}
+h1 {
+  font-weight: bold;
+  color:navajowhite;
+}
+h4 {
+  color:navajowhite;
+}
+h3 {
+  color:navajowhite;
+}
+img {
+  border-style: double;
+  border-color: navajowhite;
+}
+
+li {
+  color: navajowhite;
+  background: black;
+}
+
+h1{
+  color:navajowhite;
+  text-align: center;
+}
+p {
+  color: navajowhite;
+}
+
+h3 {
+  color: navajowhite;
+}
+
+img {
+    border-style:dashed;
+    border-color: aliceblue;
+  border-radius: 20px;
+}
+  
+
