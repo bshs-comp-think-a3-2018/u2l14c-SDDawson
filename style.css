@@ -1,39 +1,23 @@
-body{
-  text-align: center;
-  background-color: gray;
-}
-img {
-  width: 500px;
-  border-color:black;
-  border-style: ridge;
-  border-width: 5px;
-}
-h1 {
-  font-size: 50px;
-}
-h2 {
-  font-size: 40px;
-}
-h5 {
-  font-size: 15px;
-} 
-
-.winter {
-  color: rgb(195,230,255);
-  font-family: monospace; 
-} 
-
-.spring {
-  color: rgb(236,222,106);
-  font-family: cursive;  
-}
-
-.summer {
-  color: rgb(234,128,158);
-  font-family: sans-serif;
-}
-
-.fall {
-  color: rgb(61,172,83);
-  font-family: inherit;
-}
+!DOCTYPE html> 
+<html>
+  <head>           
+<link rel="stylesheet" href="index.css">
+  </head> 
+  
+  <body> 
+    <a href="index.html">Home</a>
+    <a href="bio.html">Bio</a> 
+    <a href="how_to_get.html">Where to get the app</a>
+    <h1>Fantasy Soccer<h1>
+      <h4>Log in/Sign Up<h4>
+    <ul>
+      <li>Wayne Rooney</li>
+      <li>Lionel Messi</li>
+      <li>Cristiano Ronaldo</li>
+    </ul>
+<img src="313px-Soccerball.svg.png" width=100/>
+  
+<h3>These are the types of players that you can win in packs and prizes sometimes.</h3>
+ </body>
+</html>
+      <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
