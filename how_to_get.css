@@ -1,0 +1,20 @@
+body {
+  background: black;
+}
+p {
+  color: navajowhite;
+}
+h1 {
+  font-weight: bold;
+  color:navajowhite;
+  text-align: center;
+}
+h3 {
+    color:navajowhite;
+  text-align: center;
+}
+
+img {
+    border-style: dashed;
+  border-color: aliceblue;
+  border-radius: 20px;
